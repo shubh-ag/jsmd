@@ -1,0 +1,2 @@
+# jsmd
+JavaScript Malware Detection
